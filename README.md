@@ -9,15 +9,15 @@ Hosted for testing purpose at : <h2>https://rpathar7.000webhostapp.com/index1.ph
 Vote via Web Interface
 
 SQL includes database polling_system consisting of tables:
-1. registered (
+1. registered : (
   `Name` varchar(100) NOT NULL,
   `Email` varchar(100) NOT NULL,
   `Password` varchar(100) NOT NULL
 )
-2. poll_done (
+2. poll_done : (
   `email` varchar(100) NOT NULL
 )
-3. choice  Include all columns of candidate lists based on "value" of radio buttons in tp.php file
+3. choice  : Include all columns of candidate lists based on "value" of radio buttons in tp.php file
 
 
 <h3>Overview</h3>
