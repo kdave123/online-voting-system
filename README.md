@@ -24,7 +24,5 @@ SQL includes database polling_system consisting of tables:
 Registration / Login system
 
 Redirects to Sucess page once voted sucessfully
-
+Registers vote in Database
 User once voted will be logged out automatically and wont be able to login again.
-
-
